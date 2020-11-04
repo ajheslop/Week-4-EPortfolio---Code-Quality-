@@ -1,0 +1,78 @@
+(venvv) C:\Users\aheslop\Desktop\Week4\lintExample>flake8 WeekOne.py
+WeekOne.py:2:77: W291 trailing whitespace
+WeekOne.py:10:17: W291 trailing whitespace
+WeekOne.py:11:80: E501 line too long (151 > 79 characters)
+WeekOne.py:13:80: E501 line too long (133 > 79 characters)
+WeekOne.py:15:80: E501 line too long (179 > 79 characters)
+WeekOne.py:19:1: E302 expected 2 blank lines, found 1
+WeekOne.py:19:16: E261 at least two spaces before inline comment
+WeekOne.py:19:17: E262 inline comment should start with '# '
+WeekOne.py:21:37: E261 at least two spaces before inline comment
+WeekOne.py:22:33: E261 at least two spaces before inline comment
+WeekOne.py:23:9: E265 block comment should start with '# '
+WeekOne.py:23:80: E501 line too long (161 > 79 characters)
+WeekOne.py:24:1: W293 blank line contains whitespace
+WeekOne.py:26:5: E303 too many blank lines (2)
+WeekOne.py:26:29: E261 at least two spaces before inline comment
+WeekOne.py:28:1: W293 blank line contains whitespace
+WeekOne.py:29:33: E261 at least two spaces before inline comment
+WeekOne.py:29:33: E262 inline comment should start with '# '
+WeekOne.py:32:1: W293 blank line contains whitespace
+WeekOne.py:33:5: E303 too many blank lines (2)
+WeekOne.py:33:23: E261 at least two spaces before inline comment
+WeekOne.py:34:80: E501 line too long (82 > 79 characters)
+WeekOne.py:35:1: W293 blank line contains whitespace
+WeekOne.py:37:24: E261 at least two spaces before inline comment
+WeekOne.py:37:80: E501 line too long (98 > 79 characters)
+WeekOne.py:38:9: E265 block comment should start with '# '
+WeekOne.py:39:80: E501 line too long (84 > 79 characters)
+WeekOne.py:40:1: W293 blank line contains whitespace
+WeekOne.py:42:43: W291 trailing whitespace
+WeekOne.py:43:1: E305 expected 2 blank lines after class or function definition, found 1
+WeekOne.py:43:60: W291 trailing whitespace
+WeekOne.py:45:17: E261 at least two spaces before inline comment
+WeekOne.py:48:5: E116 unexpected indentation (comment)
+WeekOne.py:48:5: E265 block comment should start with '# '
+WeekOne.py:49:1: E302 expected 2 blank lines, found 1
+WeekOne.py:49:21: E261 at least two spaces before inline comment
+WeekOne.py:55:28: E261 at least two spaces before inline comment
+WeekOne.py:55:29: E262 inline comment should start with '# '
+WeekOne.py:58:14: E211 whitespace before '('
+WeekOne.py:59:9: E265 block comment should start with '# '
+WeekOne.py:60:9: E265 block comment should start with '# '
+WeekOne.py:61:9: E265 block comment should start with '# '
+WeekOne.py:62:9: E265 block comment should start with '# '
+WeekOne.py:63:1: W293 blank line contains whitespace
+WeekOne.py:72:2: E114 indentation is not a multiple of four (comment)
+WeekOne.py:72:2: E265 block comment should start with '# '
+WeekOne.py:73:5: E301 expected 1 blank line, found 0
+WeekOne.py:74:80: E501 line too long (147 > 79 characters)
+WeekOne.py:78:2: E114 indentation is not a multiple of four (comment)
+WeekOne.py:79:2: E114 indentation is not a multiple of four (comment)
+WeekOne.py:79:2: E265 block comment should start with '# '
+WeekOne.py:81:1: E305 expected 2 blank lines after class or function definition, found 1
+WeekOne.py:85:2: E114 indentation is not a multiple of four (comment)
+WeekOne.py:85:2: E116 unexpected indentation (comment)
+WeekOne.py:86:1: E302 expected 2 blank lines, found 1
+WeekOne.py:86:31: E261 at least two spaces before inline comment
+WeekOne.py:86:32: E262 inline comment should start with '# '
+WeekOne.py:87:80: E501 line too long (86 > 79 characters)
+WeekOne.py:91:9: E265 block comment should start with '# '
+WeekOne.py:98:1: W293 blank line contains whitespace
+WeekOne.py:101:23: E261 at least two spaces before inline comment
+WeekOne.py:102:80: E501 line too long (332 > 79 characters)
+WeekOne.py:106:1: W293 blank line contains whitespace
+WeekOne.py:109:1: E305 expected 2 blank lines after class or function definition, found 1
+WeekOne.py:109:80: E501 line too long (89 > 79 characters)
+WeekOne.py:114:80: E501 line too long (97 > 79 characters)
+WeekOne.py:118:1: E265 block comment should start with '# '
+WeekOne.py:124:80: E501 line too long (103 > 79 characters)
+WeekOne.py:126:1: E265 block comment should start with '# '
+WeekOne.py:128:1: E265 block comment should start with '# '
+WeekOne.py:129:1: E265 block comment should start with '# '
+WeekOne.py:130:1: E265 block comment should start with '# '
+WeekOne.py:131:1: E265 block comment should start with '# '
+WeekOne.py:133:1: E265 block comment should start with '# '
+WeekOne.py:134:1: E265 block comment should start with '# '
+WeekOne.py:136:1: E265 block comment should start with '# '
+WeekOne.py:137:1: E265 block comment should start with '# '
