@@ -4,7 +4,7 @@
 	- Identify and resolve stylistic issues (including naming conventions) 
 	- Identify and resolve instances of code that violates Single Responsibility Principle 
 	- Identify and resolve instances of WET code
-	- Provide at least 1 example of Extract Function 
+	- Provide at least 1 example of Extract Function [can be found here](https://github.com/ajheslop/Week-4-EPortfolio---Code-Quality-/tree/main/Tasks/Improving%20Code%20Quality)
 	- Provide at least 1 example of Extract Variable 
 
 ## 2. Write your own one-page style guide:
